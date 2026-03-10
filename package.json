@@ -1,6 +1,6 @@
 {
   "name": "@bg-effects/prism",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "packageManager": "pnpm@10.25.0",
   "description": "Prism Effect - A high-performance prism background effect built with OGL and Vue.",
@@ -40,6 +40,9 @@
       "require": "./dist/index.umd.cjs",
       "types": "./dist/index.d.ts"
     }
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "scripts": {
     "dev": "pnpm play",
