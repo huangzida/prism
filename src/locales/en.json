@@ -1,0 +1,25 @@
+{
+  "tabs": {
+    "basic": "Basic",
+    "motion": "Motion",
+    "render": "Render"
+  },
+  "labels": {
+    "height": "Height",
+    "baseWidth": "Base Width",
+    "scale": "Scale",
+    "hueShift": "Hue Shift",
+    "colorFrequency": "Color Frequency",
+    "animationType": "Animation",
+    "hoverStrength": "Hover Strength",
+    "inertia": "Inertia",
+    "timeScale": "Time Scale",
+    "glow": "Glow",
+    "noise": "Noise",
+    "bloom": "Bloom",
+    "offsetX": "Offset X",
+    "offsetY": "Offset Y",
+    "transparent": "Transparent",
+    "suspendWhenOffscreen": "Pause Offscreen"
+  }
+}

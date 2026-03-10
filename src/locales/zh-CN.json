@@ -1,0 +1,25 @@
+{
+  "tabs": {
+    "basic": "基础",
+    "motion": "运动",
+    "render": "渲染"
+  },
+  "labels": {
+    "height": "高度",
+    "baseWidth": "底边宽度",
+    "scale": "缩放",
+    "hueShift": "色相偏移",
+    "colorFrequency": "颜色频率",
+    "animationType": "动画类型",
+    "hoverStrength": "悬停强度",
+    "inertia": "惯性",
+    "timeScale": "时间缩放",
+    "glow": "辉光",
+    "noise": "噪声",
+    "bloom": "泛光",
+    "offsetX": "偏移 X",
+    "offsetY": "偏移 Y",
+    "transparent": "透明背景",
+    "suspendWhenOffscreen": "离屏暂停"
+  }
+}
